@@ -30,6 +30,7 @@ jobs:
          git add README.md
          git add bing-wallpaper.md
          git commit -m "update readme.md"
+         git push -u origin runner && echo "Git Pushed Origin" # runner改成存放图片的分支
     - name: Push changes
       uses:  ad-m/github-push-action@master
       with:
