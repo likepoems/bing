@@ -11,9 +11,9 @@ import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
 /**
- * @author likepoems
+ * @author niujinpeng
  * @date 2021/02/08
- * @link https://github.com/likepoems
+ * @link https://github.com/niumoo
  */
 public class Wallpaper {
 
